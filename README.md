@@ -1,4 +1,3 @@
-# micro-purchased
 #include <iostream>
 
 using namespace std;
